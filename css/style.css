@@ -1,0 +1,22 @@
+:root {
+    --blue1: #0D92f4;
+    --blue2: #77CDFF;
+    --merah1: #f95454;
+    --merah2: #c62e2e;
+}
+
+* {
+    max-width: 1200px;
+    width: 90%;
+    height: 0 auto;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+}
+
